@@ -10,7 +10,7 @@
   <a href="mailto:miteshbhagat1409@gmail.com">
     <img src="https://img.shields.io/badge/Email-Me-d14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://linkedin.com/in/your-linkedin-username">
+  <a href="https://linkedin.com/in/mitesh-bhagat">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
