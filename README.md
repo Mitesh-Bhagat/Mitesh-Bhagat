@@ -7,15 +7,9 @@
 </p>
 
 <p align="center">
-  <a href="mailto:miteshbhagat1409@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Me-d14836?style=flat-square&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://linkedin.com/in/mitesh-bhagat">
-   <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://mitesh-bhagat.github.io/mitesh-portfolio">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=flat-square&logoColor=white" alt="Portfolio" />
-</a>
+<a href="mailto:miteshbhagat1409@gmail.com"><img src="https://img.shields.io/badge/Email-Me-d14836" alt="Email"></a>
+<a href="https://linkedin.com/in/mitesh-bhagat"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5" /></a>
+<a href="https://mitesh-bhagat.github.io/mitesh-portfolio"><img src="https://img.shields.io/badge/Portfolio-Visit-9090C0" alt="Portfolio" /></a>
 </p>
 
 ---
