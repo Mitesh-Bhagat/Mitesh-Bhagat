@@ -13,9 +13,9 @@
   <a href="https://linkedin.com/in/mitesh-bhagat">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://mitesh-bhagat-portfolio.com">
-    <img src="[https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white](https://img.shields.io/badge/Portfolio-00BFFF?style=for-the-badge&logo=ko-fi&logoColor=white)" alt="Portfolio" />
-  </a>
+  <a href="https://mitesh-bhagat.github.io/mitesh-portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio" />
+</a>
 </p>
 
 ---
