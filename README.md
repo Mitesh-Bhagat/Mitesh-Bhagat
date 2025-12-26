@@ -74,7 +74,7 @@ and network captures to support security processes and incident workflows.
 
 <p align="center" style="font-size: 20px;"><b>Mitesh-Bhagat</b></p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mitesh-bhagat&theme=prussian&hide_border=true&background=0f2b3e&ring=0d9488&fire=0284c7&currStreakLabel=0d9488" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mitesh-bhagat&theme=prussian&hide_border=true&background=0f2b3e&ring=0d9488&fire=0284c7&currStreakLabel=0d9488" alt="Streak Card" />
 </p>
 
 ---
