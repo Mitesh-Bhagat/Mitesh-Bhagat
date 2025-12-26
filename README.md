@@ -72,9 +72,7 @@ and network captures to support security processes and incident workflows.
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mitesh-bhagat&show_icons=true&theme=prussian&hide_border=true&bg_color=0f2b3e&title_color=0d9488&icon_color=0284c7" alt="Mitesh's Stats" />
-</p>
+<p align="center" style="font-size: 20px;"><b>Mitesh-Bhagat</b></p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mitesh-bhagat&theme=prussian&hide_border=true&background=0f2b3e&ring=0d9488&fire=0284c7&currStreakLabel=0d9488" alt="Streak Stats" />
 </p>
