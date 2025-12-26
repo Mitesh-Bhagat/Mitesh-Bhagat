@@ -8,13 +8,13 @@
 
 <p align="center">
   <a href="mailto:miteshbhagat1409@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Me-d14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-Me-d14836?style=flat-square&logoColor=white" alt="Email" />
   </a>
   <a href="https://linkedin.com/in/mitesh-bhagat">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+   <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://mitesh-bhagat.github.io/mitesh-portfolio">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=flat-square&logoColor=white" alt="Portfolio" />
 </a>
 </p>
 
@@ -22,7 +22,12 @@
 
 ### 👨‍💻 About Me
 
-I am a **Computer Engineering student** at L.D. College of Engineering, Ahmedabad. My work bridges the gap between **secure system architecture** and **web development**. I have experience in full-stack deployment and am currently advancing my expertise in Network Defense and AI-driven security.
+Experienced <b>Full-Stack Developer</b> with hands-on internship experience in designing and developing responsive, data-driven web 
+applications using <b>PHP, MySQL, Bootstrap, and Tailwind CSS</b>. Skilled in implementing secure authentication, session management, 
+and database optimization, along with managing <b>end-to-end deployments, web hosting, cPanel setups, and domain integration</b>. 
+
+Currently focused on <b>Cybersecurity in a non-coding operations role</b>, working with documentation, reports, policies, logs, evidence, 
+and network captures to support security processes and incident workflows. 
 
 - 🔭 **I’m currently working on:** Integrating AI with Cybersecurity for threat detection.
 - 💼 **Experience:** Former Full-Stack Intern at **Devweb Technology** (PHP, MySQL, Server Management).
@@ -67,7 +72,7 @@ I am a **Computer Engineering student** at L.D. College of Engineering, Ahmedaba
 | **Character ID via CNN** | Deep learning system to recognize handwritten letters (A-Z) and digits (0-9). | Python, TensorFlow, OpenCV |
 | **QR Attendance System** | Digital attendance tracking for students with HOD/Teacher controls. | PHP, MySQL, HTML/CSS |
 | **Virtual Classroom** | JSP-based web app for student-teacher interaction and quiz management. | JSP, MySQL, Java |
-| **Word Predictor** | AI system predicting words on-screen using mouse input. | Python, Speech API |
+| **Site Without Writing Code (Google Site)** | Built and published a fully responsive website using Google Sites, focusing on layout design, content management, and usability through a no-code, mouse-click approach. | Google Site |
 
 ---
 
